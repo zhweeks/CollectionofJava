@@ -4,6 +4,7 @@ public class HelloDolly {
 
 	public static void main(String[] args) {
 		System.out.println("Helow Werld");
-		HelloWorld.main(null);
+		HellWorld.main(null);
+		System.out.println("WOW");
 	}
 }
